@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "917284296268",
+    "firebase_url": "https://mobilelab2-f9bcc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobilelab2-f9bcc",
+    "storage_bucket": "mobilelab2-f9bcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917284296268:android:c93d23a4105a4df1ebc6e9",
+        "android_client_info": {
+          "package_name": "com.example.lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx373x7vjYhlsanzQS62OpW_dyvKgo-Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
